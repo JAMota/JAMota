@@ -21,7 +21,8 @@
 
 ## Projects
 ### Queueing theory for analysis and improvement of data pipelines
-#TODO insert link here
+
+[Master Thesis](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://github.com/JAMota/Applied-Data-Science-and-Statistics/tree/main/Thesis)
 
 ### project 2
 

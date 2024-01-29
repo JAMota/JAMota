@@ -22,7 +22,7 @@
 ## Projects
 ### Queueing theory for analysis and improvement of data pipelines
 
-[Master Thesis](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://github.com/JAMota/Applied-Data-Science-and-Statistics/tree/main/Thesis)
+[Master Thesis](https://github.com/JAMota/Applied-Data-Science-and-Statistics/tree/main/Thesis)
 - For my master thesis I have developed a simple data pipeline from scratch to analyze using queueing theory where I
 utilized an SQLite database to store all the generated data.
 - I have created a multi-step data pipeline with Apache Kafka, in Azure cloud, where I script the data generation based

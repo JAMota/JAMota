@@ -23,8 +23,16 @@
 ### Queueing theory for analysis and improvement of data pipelines
 
 [Master Thesis](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://github.com/JAMota/Applied-Data-Science-and-Statistics/tree/main/Thesis)
+- For my master thesis I have developed a simple data pipeline from scratch to analyze using queueing theory where I
+utilized an SQLite database to store all the generated data.
+- I have created a multi-step data pipeline with Apache Kafka, in Azure cloud, where I script the data generation based
+on the data collection at each of the servers using python scripting.
+- Following an the ETL (Extract, Transform, Load) practice, I have extracted, wrangled, normalized and cleaned all the
+data from each of the steps of queue, appropriately handled outliers.
+- Developed a queueing theory model for this analysis, to identify and interpret the trends and patterns of the data
+pipeline with the goal of optimizing the identified bottlenecks and boost performance.
 
-### project 2
+<!-- ### project 2 -->
 
 <!--
 **JAMota/JAMota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
